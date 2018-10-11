@@ -3393,7 +3393,7 @@
 		opacity: 1;
 		position: relative;
 		z-index: 2;
-		padding-right: 1000px;
+		text-align: left;
 	}
 
 	#banner h1 {
