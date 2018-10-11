@@ -1,0 +1,46 @@
+BODY
+{
+    COLOR: darkblue;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif;
+    BACKGROUND-COLOR: white;
+    TEXT-DECORATION: none
+}
+
+P
+{
+
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+UL
+{
+
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+
+H2
+{
+    FONT-SIZE: medium;
+
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+H3
+{
+    FONT-SIZE: medium;
+
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: justify
+}
+ADDRESS
+{
+    FONT-SIZE: xx-small;
+    
+    FONT-STYLE: italic;
+    TEXT-ALIGN: center
+}
+BLOCKQUOTE
+{
+    FONT-WEIGHT: bolder;
+    TEXT-ALIGN: justify
+}
